@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /publications/
   - title: "Prototype Presentations"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /prototype-presentations/
   - title: "Ideas & Insights"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /ideas-insights/
   - title: "Graduates"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /graduates/
   - title: "Life"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /life/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
