@@ -18,11 +18,3 @@ XXX
 ## Fundings
 XX
 
-<!-- ## News
-
-<div class="grid__wrapper">
-{% for post in site.posts limit:12 %}  
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
- -->
