@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<script src="https://bibbase.org/show?bib=https://yinlongsan.github.io/publications.bib&commas=true&noBootstrap=1&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://yinlongsan.github.io/files/publications.bib&commas=true&noBootstrap=1&jsonp=1"></script>
 
 
 {% include base_path %}
