@@ -10,7 +10,7 @@ classes: wide
 
 <!-- <script src="https://bibbase.org/show?bib=https://liu-cheng.github.io/files/publications.bib&jsonp=1&nocache=1&theme=default"></script> -->
 
-{% include base_path %}
+#{% include base_path %}
 
 <!-- {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
