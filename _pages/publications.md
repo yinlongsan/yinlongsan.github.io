@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FEiPpmdMyNPnEPQMW3&noBootstrap=1&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://liu-cheng.github.io/files/publications.bib&jsonp=1&nocache=1&theme=default&noAuthorLinks=1"></script>
 
-<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FEiPpmdMyNPnEPQMW3&noBootstrap=1&jsonp=1"></script> -->
+<!-- <script src="https://bibbase.org/show?bib=https://liu-cheng.github.io/files/publications.bib&jsonp=1&nocache=1&theme=default"></script> -->
 
 {% include base_path %}
 
