@@ -99,3 +99,31 @@ classes: wide
   	<td style="padding: 2px;"><br>An optimization method for LLM inference on NPU-cluster-based computing systems based on pre-allocated locked memory</td> 
     <td style="text-align: justify; padding: 4px;">本发明提出一种基于预分配锁内存的计算卡群并行推理方法和装置，包括：构建由多张智能计算卡构成的智能计算卡群；获取推理请求，推理请求包含待推理的模型参数、输入数据以及其他的请求元数据信息；在每张智能计算卡的内存区域内划分锁内存区域；根据当前智能计算卡的空闲显存，在隐藏维度上切分输入数据，得到多个子张量；每个智能计算卡执行分配到的子张量的推理任务，然后各加速卡协同完成推理任务，各加速卡将得到的推理结果作为中间结果保存至本地的锁内存区域；当智能计算卡群完成全部子张量的推理任务后，按照正确的顺序进行合并所有智能计算卡的锁内存区域中的中间结果，得到推理请求的推理结果。</td> </tr> 
 </table>
+
+## software copyrights
+
+<table border="1" style="table-layout: fixed; width: 100%; word-break: break-all; font-size: 0.5em; line-height: 1.2;"> 
+  <tr> 
+    <th align="center" style="width: 15%; padding: 2px;">Registration number</th> 
+    <th align="center" style="width: 15%; padding: 2px;">Registration Date</th> 
+    <th align="center" style="width: 15%; padding: 2px;">Version</th> 
+    <th align="center" style="width: 15%; padding: 2px;">Completed by</th> 
+    <th align="center" style="width: 20%; padding: 2px;">Title (in Chinese)</th> 
+    <th align="center" style="width: 20%; padding: 2px;">Title (in English)</th> </tr> 
+  
+  <tr> 
+    <td style="padding: 2px;"><br>2024SR1914319</td> 
+    <td style="padding: 2px;">2024-11-27</td> 
+    <td style="padding: 2px;">V1.0</td> 
+    <td style="padding: 2px;">Zirui Cao, <br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
+    <td style="padding: 2px;">高自由度机器人运动学FPGA计算程序</td> 
+    <td style="padding: 2px;"><br> A Verilog program for high-degree-of-freedom robot kinematics computing in FPGA </td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>2024SR1914346</td> 
+    <td style="padding: 2px;">2024-11-27</td> 
+    <td style="padding: 2px;">V1.0</td> 
+    <td style="padding: 2px;"><br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
+    <td style="padding: 2px;">无丢帧跟踪凝视软件系统 V1.0</td> 
+    <td style="padding: 2px;"><br> A software program for tracking moving objects without frame loss (V1.0)</td> </tr> 
+</table>
