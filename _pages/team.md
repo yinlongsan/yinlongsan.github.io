@@ -3,10 +3,11 @@ layout: archive
 permalink: /team/
 excerpt: "faculty & undergraduates & graduates"
 author_profile: true
+classes： wide
 ---
 
 ## engineers
-|  Name    |  Enrollment |  Research Interests | 
+|  Name |  Enrollment |  Research Interests | 
 |:----------------:|:-----------------------:|:---------------------------------------------:|
 |   **Xiaolan Fan**    | 2021.05 | Intelligent computing systems design |
 |   **Lifen Chen**    |   2024.07   | Intelligent computing systems design|
