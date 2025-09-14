@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Home"
+title: "Homepage"
 author_profile: true
 classes: wide
 ---
