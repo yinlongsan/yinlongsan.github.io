@@ -117,7 +117,7 @@ author:
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor"
   location         : "Beijing, China"
-  email            : "mailto:yinlongxiang@ict.ac.cn"
+  email            : "yinlongxiang@ict.ac.cn"
   github           : "yinlongxiang"
   links:
     - label: "知乎"
