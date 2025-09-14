@@ -19,7 +19,7 @@ classes: wide
     <th align="center" style="width: 33%;">Abstract (in Chinese)</th> 
   </tr> 
   <tr> 
-    <td>CN106887249A</td> 
+    <td><br>CN106887249A</td> 
     <td>2015.12.15</td> 
     <td>G11C11/413</td> 
     <td>Xiaoyan Liu, Juncheng Wang, Gang Du, <br>Longxiang Yin, Jinfeng Kang</td> 
