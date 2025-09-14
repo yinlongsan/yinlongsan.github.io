@@ -57,3 +57,12 @@ For even more demo pages check the [posts archive][year-archive].
 ---
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+
+<!-- ## News
+
+<div class="grid__wrapper">
+{% for post in site.posts limit:12 %}  
+    {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
+ -->
