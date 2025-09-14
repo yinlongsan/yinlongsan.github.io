@@ -8,6 +8,8 @@ main:
     url: /patents/
   - title: "Insights"
     url: /ideas-insights/
+  - title: "Topics"
+    url: /topics/
   - title: "Team"
     url: /team/
   - title: "Life"
