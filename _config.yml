@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Longxiang Yin"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor"
+  bio              : "Associate Professor，Institute of Computing, Chinese Academy of Sciences"
   location         : "Beijing, China"
   email            : "yinlongxiang@ict.ac.cn"
   github           : "yinlongxiang"
