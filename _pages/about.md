@@ -2,7 +2,8 @@
 permalink: /about/
 title: "Home"
 excerpt: "About me"
-toc: true
+author_profile: true
+classes：wide
 ---
 
 ## Notable Features
