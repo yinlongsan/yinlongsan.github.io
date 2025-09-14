@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /patent/
+permalink: /patents/
 title: "Patents & Copyrights"
 author_profile: true
 classes: wide
