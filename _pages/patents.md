@@ -8,7 +8,7 @@ classes: wide
 
 ## patents
 
-<table border="1" style="table-layout: fixed; width: 100%; word-break: break-all;"> 
+<table border="1" style="table-layout: fixed; width: 100%; word-break: break-all; font-size: 0.85em;"> 
   <tr> 
     <th align="center" style="width: 10%;">Publication Number</th> 
     <th align="center" style="width: 8%;">Publication Date</th>
