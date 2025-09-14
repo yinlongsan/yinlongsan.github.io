@@ -7,12 +7,14 @@ classes: wide
 ---
 
 ## engineers
+
 |  Name |  Enrollment |  Research Interests | 
 | :--: | :--: | :--: |
 |   **Xiaolan Fan**    | 2021.05 | Intelligent computing systems design |
 |   **Lifen Chen**    |   2024.07   | Intelligent computing systems design |
 
 ## undergraduates
+
 |  Name    | Enrollment |  Research Interests | Email |
 |:----------------:|:-----------------------:|:-------------------------:|:-------------------------:|
 |   **Wanyu Wang**    |      2023.09   | Computer Architecture，CXL/PCIe based disaggragated memory systems | wangwanyu23@mails.ucas.ac.cn |
@@ -25,6 +27,7 @@ classes: wide
 |   **Hao Zheng**    |      2024.09   | Computer Architecture, Collaborative Edge LLM Computing System design | zh1732000857@126.com |
 
 ## graduates
+
 |  Name    | Enrollment |  Research Interests | Career after Graduation |
 |:----------------:|:-----------------------:|:-------------------------:|:-------------------------:|
 |   **Mengjun Shang**    |      2018.09   | Computer Architecture，Computing-In-Memory | x |
