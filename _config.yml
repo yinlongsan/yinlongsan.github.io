@@ -115,13 +115,14 @@ analytics:
 author:
   name             : "Longxiang Yin"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor，Institute of Computing, Chinese Academy of Sciences"
+  bio              : "Associate Professor"
+  employer         : "Institute of Computing, Chinese Academy of Sciences"
   location         : "Beijing, China"
   email            : "yinlongxiang@ict.ac.cn"
   github           : "yinlongxiang"
   links:
     - label: "知乎"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-link"
       url: "https://www.zhihu.com/people/yin-long-xiang"
     - label: "github"
       icon: "fas fa-fw fa-link"
