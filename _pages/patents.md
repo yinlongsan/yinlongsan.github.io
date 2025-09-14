@@ -9,6 +9,7 @@ classes: wide
 <!--![RedaMsc](/images/group.jpg)-->
 
 ## patents
+
 |  Name |  Enrollment |  Research Interests | 
 | :--: | :--: | :--: |
 |   **Xiaolan Fan**    | 2021.05 | Intelligent computing systems design |
