@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-#### patents
+## patents
 
-|  Name |  Enrollment |  Research Interests | 
+|  |  Enrollment |  Research Interests | 
 | :--: | :--: | :--: |
 |   **Xiaolan Fan**    | 2021.05 | Intelligent computing systems design |
 |   **Lifen Chen**    |   2024.07   | Intelligent computing systems design |
