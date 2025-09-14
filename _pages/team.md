@@ -8,7 +8,7 @@ classes: wide
 
 ## engineers
 |  Name |  Enrollment |  Research Interests | 
-|:----------------:|:-----------------------:|:---------------------------------------------:|
+|:--:|:--:|:--:|
 |   **Xiaolan Fan**    | 2021.05 | Intelligent computing systems design |
 |   **Lifen Chen**    |   2024.07   | Intelligent computing systems design|
 
