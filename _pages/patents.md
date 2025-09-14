@@ -17,12 +17,85 @@ classes: wide
     <th align="center" style="width: 12%; padding: 2px;">Title (in Chinese)</th> 
     <th align="center" style="width: 15%; padding: 2px;">Title (in English)</th> 
     <th align="center" style="width: 33%; padding: 2px;">Abstract (in Chinese)</th> </tr> 
+  
   <tr> 
     <td style="padding: 2px;"><br>CN106887249A</td> 
     <td style="padding: 2px;">2015.12.15</td> 
     <td style="padding: 2px;">G11C11/413</td> 
     <td style="padding: 2px;">Xiaoyan Liu, Juncheng Wang, Gang Du, <br>Longxiang Yin, Jinfeng Kang</td> 
-    <td style="padding: 2px;">静态随机存取存储器及其操作方法</td> <td style="padding: 2px;"><br>A method for static random access memory implementation and operation</td> 
-    <td style="text-align: justify; padding: 4px;"> 本发明公开了一种静态随机存取存储器以及对其进行操作的方法。所述静态随机存取存储器包括：锁存单元，连接在第一节点和第二节点之间；第一传输晶体管，其第一端连接到第一位线，第二端连接到所述第一节点，第一栅极连接到第一字线，第二栅极连接到第二字线；以及第二传输晶体管，其第一端连接到所述第二节点，第二端连接到第二位线，第一栅极连接到第一字线，第二栅极连接到第二字线。所述传输晶体管具有电子导电或空穴导电两种工作模式，可以通过调节第一字线和第二字线的电平选择所述传输晶体管电子导电或空穴导电的工作模式，并且控制所述传输晶体管在相应工作模式中导通或断开的状态。所述传输晶体管导通时驱动能力可调，断开时泄漏电流很低，从而降低锁存单元保持数据时的功耗。 </td> 
-  </tr> 
+    <td style="padding: 2px;">静态随机存取存储器及其操作方法</td> 
+    <td style="padding: 2px;"><br>A method for static random access memory implementation and operation</td> 
+    <td style="text-align: justify; padding: 4px;"> 本发明公开了一种静态随机存取存储器以及对其进行操作的方法。所述静态随机存取存储器包括：锁存单元，连接在第一节点和第二节点之间；第一传输晶体管，其第一端连接到第一位线，第二端连接到所述第一节点，第一栅极连接到第一字线，第二栅极连接到第二字线；以及第二传输晶体管，其第一端连接到所述第二节点，第二端连接到第二位线，第一栅极连接到第一字线，第二栅极连接到第二字线。所述传输晶体管具有电子导电或空穴导电两种工作模式，可以通过调节第一字线和第二字线的电平选择所述传输晶体管电子导电或空穴导电的工作模式，并且控制所述传输晶体管在相应工作模式中导通或断开的状态。所述传输晶体管导通时驱动能力可调，断开时泄漏电流很低，从而降低锁存单元保持数据时的功耗。 </td> </tr> 
+  
+  <tr> 
+    <td style="padding: 2px;"><br>CN115061550A</td> 
+    <td style="padding: 2px;">2022.09.16</td> 
+    <td style="padding: 2px;">G06F1/20</td> 
+    <td style="padding: 2px;">Lu Xu, Yinhe Han, <br>Longxiang Yin, Haining Tan, Xiao Zhang</td> 
+    <td style="padding: 2px;">一种基于热电制冷器的分布式热管理装置和控制方法</td> 
+	  <td style="padding: 2px;"><br>A method for implementation and control of a distributed-thermal-managed device based on thermoelectric coolers</td> 
+    <td style="text-align: justify; padding: 4px;"> 本发明属于服务器和数据中心液冷散热领域，公开了一种基于热电制冷器的分布式热管理装置和控制方法，包括底座、热电制冷器、第一冷板、第二冷板、总入口、总出口和管道；所述底座平放于监测目标上，所述热电制冷器和第一冷板并排平放于底座上，所述第二冷板叠放于热电制冷器上，所述热电制冷器的冷端朝向底座、热端朝向第二冷板，所述管道用于总入口、第一冷板、第二冷板和总出口之间的相互连接，冷却液从总入口进入装置、从总出口离开装置，所述管道上具有多个电动阀门用于控制冷却液的流向。本发明通过控制电动阀门实现两块冷板的串并联切换，避免热电制冷器工作时热端产生的热量反向传导给处理器，提高了制冷效率。</td> </tr> 
+  
+  <tr> 
+    <td style="padding: 2px;"><br>CN115763406A</td> 
+    <td style="padding: 2px;">2023.03.07</td> 
+    <td style="padding: 2px;">H01L23/473</td> 
+    <td style="padding: 2px;">Lu Xu, Junliang Lu, Yinhe Han, <br>Longxiang Yin, Haining Tan</td> 
+    <td style="padding: 2px;">一种带歧管微通道的嵌入式冷却芯片</td> 
+	  <td style="padding: 2px;"><br>A design method of a embedded cooling chip with manifold microchannels</td> 
+    <td style="text-align: justify; padding: 4px;">本发明属于半导体技术领域，公开了一种带歧管微通道的嵌入式冷却芯片，包括底座基板和歧管基板，所述底座基板和歧管基板两者间相互键合，所述底座基板内具有多个阵列排布的环形鳍片，所述环形鳍片为由底座基板的底面向上凸起的内部中空的圆柱体，其内环形成第一通孔；所述歧管基板上具有多个上下贯穿的第二通孔，歧管基板的第二通孔与底座基板的第一通孔一一对准，所述歧管基板上具有多个并行的冷却液出入通道。本发明采用并行的歧管式结构，使芯片上冷却液分布更均匀；利用通孔形成环形鳍片结构，无需额外设计换热通道、增加芯片高度；通孔贯穿芯片，内部可填充导电金属，实现堆叠芯片的电路连接。</td> </tr>
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN116417423A</td> 
+    <td style="padding: 2px;">2023.07.11</td> 
+    <td style="padding: 2px;">H01L23/473</td> 
+    <td style="padding: 2px;">Lu Xu, Yinhe Han, <br>Longxiang Yin, Haining Tan</td> 
+    <td style="padding: 2px;">一种冷却液分流板及芯片冷却结构</td> 
+	  <td style="padding: 2px;"><br>A design method of a diverter plate for cooling liquid and a cooling structure for intergrated chips</td> 
+    <td style="text-align: justify; padding: 4px;">本发明涉及一种冷却液分流板及芯片冷却结构，包括板体和导流板；所述板体正面中间内凹形成流动槽，所述板体边缘开设有总进液口和总出液口，所述流动槽的底壁上开设有冷却口；所述导流板设置在所述流动槽的底壁上并阻隔在所述总进液口和所述总出液口之间，以在所述流动槽中分隔出进液通道和出液通道，所述进液通道连通至所述总进液口，所述出液通道连通至所述总出液口；所述导流板包括若干蛇形板，所述蛇形板盖合在所述冷却口上，所述蛇形板的一侧凹口为第一进液凹口，所述蛇形板的另一侧凹口为第一出液凹口，所述第一进液凹口连通至所述进液通道，所述第一出液凹口连通至所述出液通道。本发明整个芯粒的散热相对均匀。</td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN117315502A</td> 
+    <td style="padding: 2px;">2023.12.29</td> 
+    <td style="padding: 2px;">G06V20/13</td> 
+    <td style="padding: 2px;"><br>Longxiang Yin, Ting Li, Yinhe Han, Xiang Dong</td> 
+    <td style="padding: 2px;">遥感图像处理方法、电子设备及存储介质</td> 
+	  <td style="padding: 2px;"><br>An implementation of a computing system for Remote sensing</td> 
+    <td style="text-align: justify; padding: 4px;">本申请公开了一种遥感图像处理方法、电子设备及存储介质。该遥感图像处理方法包括：获取图像帧数据；对图像帧数据进行图像预处理，得到可视图像数据；基于可视图像数据确定有效图像数据；以及将有效图像数据传输至地面站。利用本申请的技术方案，能够对遥感图像数据中的有效数据进行提取后进行传输，提升遥感图像数据的传输效率。</td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN119322667A</td> 
+    <td style="padding: 2px;">2025.01.17</td> 
+    <td style="padding: 2px;">G06F11/20</td> 
+    <td style="padding: 2px;"><br>Longxiang Yin, Wanyu Wang, Xiaolan Fan, Yinhe Han</td> 
+    <td style="padding: 2px;">一种面向OODAflow操作系统的容错调度方法及装置</td> 
+	  <td style="padding: 2px;"><br>An implementation of a fault-tolerant scheduling strategy for the OODA processing flow</td> 
+    <td style="text-align: justify; padding: 4px;">本发明提出一种面向OODAflow操作系统的容错调度方法和装置，包括：接收智能计算任务并将其拆分为单任务，将单任务与环境健康度监测进程封装成自持的容器，等候计算设备调度；将已封装成自持的容器的单任务部署到相应计算节点；在计算节点执行任务过程中，该环境健康度监测进程实时监测当前计算节点所属计算设备的健康情况，若健康情况有故障，则当前计算节点退出任务并保存checkpoint文件；若无故障，则将任务的执行结果写回共享存储区。本发明提出的容错调度系统实现了对OODAflow操作系统任务的容错机制与高效的容错调度，保障了OODAflow操作系统处理计算任务的实时性与可靠性。</td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN119862151A</td> 
+    <td style="padding: 2px;">2025.04.22</td> 
+    <td style="padding: 2px;">G06F15/78</td> 
+    <td style="padding: 2px;"><br>Longxiang Yin, Xiaolan Fan, Wanyu Wang, Yinhe Han</td> 
+    <td style="padding: 2px;">一种基于OAM形态的存算一体计算模组</td> 
+  	<td style="padding: 2px;"><br>An open accelerator module (OAM) design for a processing-in-memory computing system</td> 
+    <td style="text-align: justify; padding: 4px;">本发明提供一种基于OAM形态的存算一体计算模组，用于集成不同类型的多个存算一体芯片并实现CPU和存算一体芯片间的通信，所述计算模组对外接口采用OAM协议设计的接口与外部UBB底板连接，计算模组包括：依次层叠连接的电源夹层卡、控制器卡和存算子卡，其中，电源夹层卡被配置为：采用OAM协议设计的电源接口进行电源转换，为控制器卡和存算子卡供电，为控制器卡和外部UBB底板上的CPU之间的数据信号传输提供通路；控制器卡被配置为：进行不同协议间的转换，以及存算子卡与外部UBB底板上的CPU间的通信和数据信号传输；存算子卡被配置为：存储数据信号并为一个或多个存算一体芯片提供芯片连接接口；通过芯片连接接口向与其连接的存算一体芯片传输数据信号。</td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN120295737A</td> 
+    <td style="padding: 2px;">2025.07.11</td> 
+    <td style="padding: 2px;">G06F9/50</td> 
+    <td style="padding: 2px;">Guoqiang Zou, <br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
+    <td style="padding: 2px;">基于任务感知与生成长度预测的计算卡群调度方法及装置</td> 
+  	<td style="padding: 2px;"><br>An LLM-task-orinted resource scheduling strategy for NPU-cluster-based computing systems based on length prediction for text generations</td> 
+    <td style="text-align: justify; padding: 4px;">本发明提出一种基于任务感知与生成长度预测的计算卡群调度方法和装置，包括：将具有用户提示词的多个推理请求发送至计算卡群，将每个推理请求封装为请求对象，计算卡群具有多个智能计算卡，所有智能计算卡的显存构成共享显存池；将请求对象加入用户请求池中；采用预测器模块对用户请求池中请求对象的用户提示词进行生成长度预测，得到预测生成长度；为用户请求池中每个请求对象创建对应推理任务和元数据，根据预测生成长度，从共享显存池中按需申请显存块，得到具有显存分配地址与大小的显存块句柄并写入元数据；根据推理任务的元数据和各个计算卡的运行状态，生成任务调度序列；按顺序从任务调度序列中选取推理任务。</td> </tr> 
+
+  <tr> 
+    <td style="padding: 2px;"><br>CN120315863A</td> 
+    <td style="padding: 2px;">2025.07.15</td> 
+    <td style="padding: 2px;">G06F9/50</td> 
+    <td style="padding: 2px;">Guoqiang Zou, <br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
+    <td style="padding: 2px;">基于预分配锁内存的计算卡群并行推理方法及装置</td> 
+  	<td style="padding: 2px;"><br>An optimization method for LLM inference on NPU-cluster-based computing systems based on pre-allocated locked memory</td> 
+    <td style="text-align: justify; padding: 4px;">本发明提出一种基于预分配锁内存的计算卡群并行推理方法和装置，包括：构建由多张智能计算卡构成的智能计算卡群；获取推理请求，推理请求包含待推理的模型参数、输入数据以及其他的请求元数据信息；在每张智能计算卡的内存区域内划分锁内存区域；根据当前智能计算卡的空闲显存，在隐藏维度上切分输入数据，得到多个子张量；每个智能计算卡执行分配到的子张量的推理任务，然后各加速卡协同完成推理任务，各加速卡将得到的推理结果作为中间结果保存至本地的锁内存区域；当智能计算卡群完成全部子张量的推理任务后，按照正确的顺序进行合并所有智能计算卡的锁内存区域中的中间结果，得到推理请求的推理结果。</td> </tr> 
 </table>
