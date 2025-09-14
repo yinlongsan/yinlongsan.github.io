@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /team/
-excerpt: "faculty & undergraduates & graduates"
 author_profile: true
 classes: wide
 ---
