@@ -15,7 +15,7 @@ author_profile: true
 |  Name    | Enrollment |  Research Interests | Email |
 |:----------------:|:-----------------------:|:-------------------------:|:-------------------------:|
 |   **Wanyu Wang**    |      2023.09   | Computer Architecture，CXL/PCIe based disaggragated memory systems | wangwanyu23@mails.ucas.ac.cn |
-|   **Zirui Cao**    |      2023.09   | Computer Architecture, Binary Translation for Heterogenerous Computing | | 
+|   **Zirui Cao**    |      2023.09   | Computer Architecture, Binary Translation for Heterogenerous Computing | x | 
 |   **Jieke Lin**    |      2023.09   | Computer Architecture, CPU memory offloading for LLM Computing Systems | jklincn@foxmail.com |
 |   **Guoqiang Zou**    |      2023.09   | Computer Architecture, Inference Throughput Optimization for LLM Computing Systems | qidizou@163.com |
 |   **Yuling Yuan**    |      2023.09   | Computer Architecture, Collaborative Edge LLM Computing System design | yuanyl2023@shanghaitech.edu.cn |
@@ -26,7 +26,7 @@ author_profile: true
 ## graduates
 |  Name    | Enrollment |  Research Interests | Career after Graduation |
 |:----------------:|:-----------------------:|:-------------------------:|:-------------------------:|
-|   **Mengjun Shang**    |      2018.09   | Computer Architecture，Computing-In-Memory | |
-|   **Yuan Liang**    |      2018.09   | Computer Architecture，Computing-In-Memory | |
-|   **Mingyuan Zhang**    |      2019.09   | Computer Architecture， Architecture-Algorithm Co-Optimization for Intelligent Computing Systems | |
-|   **Liquan Wang**    |      2021.09   | Computer Architecture， Architecture-Algorithm Co-Optimization for Intelligent Computing Systems | |
+|   **Mengjun Shang**    |      2018.09   | Computer Architecture，Computing-In-Memory | x |
+|   **Yuan Liang**    |      2018.09   | Computer Architecture，Computing-In-Memory | x |
+|   **Mingyuan Zhang**    |      2019.09   | Computer Architecture， Architecture-Algorithm Co-Optimization for Intelligent Computing Systems | x |
+|   **Liquan Wang**    |      2021.09   | Computer Architecture， Architecture-Algorithm Co-Optimization for Intelligent Computing Systems | x |
