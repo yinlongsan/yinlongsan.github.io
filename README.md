@@ -1,1 +1,1 @@
-My academic homepage,
+My academic homepage
