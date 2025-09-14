@@ -2,11 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Prototype Presentations"
+  - title: "Prototypes"
     url: /prototype-presentations/
-  - title: "Patents & Copyrights"
+  - title: "Patents"
     url: /patents/
-  - title: "Ideas & Insights"
+  - title: "Insights"
     url: /ideas-insights/
   - title: "Team"
     url: /team/
