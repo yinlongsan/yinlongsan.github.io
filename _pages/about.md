@@ -11,6 +11,6 @@ classes: wide
 
 ## Research Interest
 <center>
-![ResearchInterest](ResearchInterest.jpg)
+![ResearchInterest](./ResearchInterest.jpg)
 </center>
  
