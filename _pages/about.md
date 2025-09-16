@@ -7,16 +7,15 @@ classes: wide
 ---
 
 ## Biography
-<p style="text-align: justify;">I graduated from Northwestern Polytechnical University (Xi’an) with a bachelor's degree in Electric Engineering in 2012 and from Peking University (Beijing) with a doctoral degree in Microelectronics in 2018. After that, I joined the Institute of Computing Technology, Chinese Academy of Sciences in 2018 and was promoted to associate professor in 2021. With more than ten years of experience in Electric Engineering, now I’m doing research in the field of computer architecture, which is a thriving field aiming to make better use of electric devices and circuits. I have experiences in making various prototypes such as a Monte Carlo device simulator, an Open-Accelerator-Module-based Compute-in-Memory server system, an edge AI computing system and so on. My research interest includes AI computing system, disaggregated memory system, microkernel operating system and hardware accelerated emulation system. </p>
+<p style="text-align: justify;">I graduated from Northwestern Polytechnical University (Xi’an) with a bachelor's degree in Electric Engineering in 2012 and from Peking University (Beijing) with a doctoral degree in Microelectronics in 2018. After that, I joined the Institute of Computing Technology, Chinese Academy of Sciences in 2018 and was promoted to associate professor in 2021. With more than ten years of experience in Electric Engineering, now I’m doing research in the field of computer architecture, which is a thriving field aiming to make better use of electric devices and circuits. I have experiences in making various prototypes such as a Monte Carlo device simulator, an Open-Accelerator-Module-based Compute-in-Memory server system, an edge AI computing system and so on. My research interest includes disaggregated memory system, binary translation for heterogenerous computing and LLM edge computing system.</p>
 
 ## Research Interest
 <div align="center">
   <img src="https://yinlongsan.github.io/images/ResearchInterest.jpg" alt="描述" width="400">
 </div>
-- AI computing system
-
+  
 - Disaggregated memory system
 
-- Microkernel operating system
+- Binary translation for heterogenerous computing
 
-- Hardware accelerated emulation system
+- LLM edge computing system
