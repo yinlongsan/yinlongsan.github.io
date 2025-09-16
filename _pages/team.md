@@ -18,7 +18,7 @@ classes: wide
 |  Name    | Enrollment |  Research Interests | Email |
 |:----------------:|:-----------------------:|:-------------------------:|:-------------------------:|
 |   **Wanyu Wang**    |      2023.09   | CXL/PCIe based disaggragated memory systems, Computer Architecture| wangwanyu23@mails.ucas.ac.cn |
-|   **Zirui Cao**    |      2023.09   | Binary Translation for Heterogenerous Computing, Computer Architecture | x | 
+|   **Zirui Cao**    |      2023.09   | Binary Translation for Heterogenerous Computing, Computer Architecture | caozr2023@shanghaitech.edu.cn  | 
 |   **Jieke Lin**    |      2023.09   | CPU memory offloading for LLM Computing Systems, Computer Architecture | jklincn@foxmail.com |
 |   **Guoqiang Zou**    |      2023.09   | Inference Throughput Optimization for LLM Computing Systems, Computer Architecture| qidizou@163.com |
 |   **Yuling Yuan**    |      2023.09   | Collaborative Edge LLM Computing System design, Computer Architecture| yuanyl2023@shanghaitech.edu.cn |
