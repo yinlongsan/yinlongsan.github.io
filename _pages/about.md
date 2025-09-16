@@ -11,6 +11,6 @@ classes: wide
 
 ## Research Interest
 <center>
-![ResearchInterest](./ResearchInterest.jpg)
+![ResearchInterest](https://yinlongsan.github.io/images/ResearchInterest.jpg)
 </center>
  
