@@ -11,5 +11,5 @@ classes: wide
 
 ## Research Interest
 <div align="center">
-  <img src="https://yinlongsan.github.io/images/profile.jpg" alt="描述" width="400">
+  <img src="https://yinlongsan.github.io/images/ResearchInterest.jpg" alt="描述" width="400">
 </div>
