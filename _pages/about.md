@@ -12,6 +12,6 @@ classes: wide
 ## Research Interest
 
 <center>
-![ResearchInterest](https://yinlongsan.github.io/images/ResearchInterest.jpg)
+![ResearchInterest](https://yinlongsan.github.io/images/profile.jpg)
 </center>
  
