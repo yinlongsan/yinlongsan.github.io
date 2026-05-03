@@ -113,7 +113,7 @@ classes: wide
     <td style="padding: 2px;">10</td> 
     <td style="padding: 2px;"><br>CN121187753A</td> 
     <td style="padding: 2px;">2025.12.23</td> 
-    <td style="padding: 2px;">G06F9/50;G06F9/445;G06N3/045;G06N5/04;G06N3/0499</td> 
+    <td style="padding: 2px;">G06F9/50</td> 
     <td style="padding: 2px;">Jieke Lin, <br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
     <td style="padding: 2px;">面向低GPU资源卡群计算系统的大模型计算方法及装置</td> 
   	<td style="padding: 2px;"><br>A Design Method for Large Language Model Depolyment on GPU-Constrained Clusters</td>
@@ -123,7 +123,7 @@ classes: wide
     <td style="padding: 2px;">11</td> 
     <td style="padding: 2px;"><br>CN121209659A</td> 
     <td style="padding: 2px;">2025.12.26</td> 
-    <td style="padding: 2px;">G06F1/20;G06F1/18</td> 
+    <td style="padding: 2px;">G06F1/20</td> 
     <td style="padding: 2px;"> <br>Longxiang Yin, Xiaolan Fan, Yinhe Han</td> 
     <td style="padding: 2px;">一种便携加固式训推一体计算设备及其设计方法</td> 
   	<td style="padding: 2px;"><br>A Ruggedized Portable AI Computing System with Collocated Training and Inference Capabilities</td>
