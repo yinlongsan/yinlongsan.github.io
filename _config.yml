@@ -109,7 +109,7 @@ analytics:
   google:
     tracking_id          : GTM-N9TZQH5Z 
     anonymize_ip         : # true, false (default)
-#google_analytics: GTM-N9TZQH5Z 
+google_analytics: GTM-N9TZQH5Z 
 
 # Site Author
 author:
